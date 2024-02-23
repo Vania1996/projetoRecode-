@@ -1,0 +1,36 @@
+/* PAGINA TRAVELBAT */
+
+.carousel-inner{
+    height: 700px;
+    width: px;
+
+}
+.nav{
+    background-color: rgb(196, 184, 245);
+}
+.card{
+    display:flex; 
+}
+
+/* TELA DE LOGIN FORMULARIO */
+.containerLogin{
+    border: 2px solid rgb(146, 128, 128);
+    margin-top: 50px;
+     
+}
+
+
+/* TELA DE CADASTRO */
+
+.formularioCadastro{
+    border: 2px solid rgb(146, 128, 128);
+    margin-top: 50px;
+     
+}
+
+
+/* footer */
+
+.footer{
+    text-align: center;
+}
